@@ -5,7 +5,7 @@ public class AssignSoal5 {
         //Init
         long minutes;
 
-        //Konversi menit ke detik
+        //Konversi menit-detik
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Masukkan menit: ");

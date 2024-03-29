@@ -14,9 +14,9 @@ public class AssignSoal7 {
             for (int j = 0; j < numbers[i].length; j++) {
                 //modulo bagi 2 habis biar menandakan bilangan genap
                 if (numbers[i][j] % 2 == 0) {
+                    //print bil genap berdasarkan indeks
                     System.out.println("Angka genap " + numbers[i][j] + ": [" + i + "][" + j + "]");
                 }
-
             }
         }
     }

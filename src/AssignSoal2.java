@@ -10,20 +10,16 @@ public class AssignSoal2 {
         stringArr[2] = "The Hobbit";
         stringArr[3] = "Pirates of the Caribean";
 
-        //Call and print the array
-        System.out.println(stringArr);
-
         //Access Pirates of the Caribean
         System.out.println(stringArr[3]);
 
-        //Access The Hobbit
-        System.out.println(stringArr[2]);
-
-        //Access Lord of The Rings
-        System.out.println(stringArr[1]);
-
-        //Access Harry Potter
-        System.out.println(stringArr[0]);
-
+//        //Access The Hobbit
+//        System.out.println(stringArr[2]);
+//
+//        //Access Lord of The Rings
+//        System.out.println(stringArr[1]);
+//
+//        //Access Harry Potter
+//        System.out.println(stringArr[0]);
     }
 }
